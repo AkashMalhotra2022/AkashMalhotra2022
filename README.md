@@ -1,6 +1,10 @@
-# Hi, I'm Akash Kumar Malhotra! 👋
+ Hi, I'm Akash Kumar Malhotra! 👋
 
-## 🎓 Graduate Student in Data Architecture and Management at Northeastern University 🔸 Data Architect in the making | ETL/ELT | Snowflake | Azure | Power BI | SQL | Python 🌐 Passionate about turning raw data into actionable insights and robust analytics pipelines
+## 🎓 Graduate Student in Data Architecture and Management at Northeastern University 
+
+💼 Data Architect in the making | ETL/ELT | Snowflake | Azure | Power BI | SQL | Python 
+
+🌐 Transforming complex data ecosystems into strategic business intelligence solutions with precision and innovation
 
 ---
 
